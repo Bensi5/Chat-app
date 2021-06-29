@@ -24,8 +24,3 @@ h3,h4{
 {
 	font-size: 20px; float: right;
 }
-.bodyBackground{
-    background-image: url("background-chatapp.jpg");
-       background-position: center;
-       background-size: cover;
-}
