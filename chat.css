@@ -1,5 +1,5 @@
 .body_background{
-    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-yellow-tourism-trolley-case-to-chat-with-image_13961.jpg");
+    background-image: url("background-chatapp.jpg");
        background-position: center;
        background-size: cover;
 }
@@ -19,4 +19,13 @@ h3,h4{
 .header
 {
 	color: rgb(0, 0, 0);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+.bodyBackground{
+    background-image: url("background-chatapp.jpg");
+       background-position: center;
+       background-size: cover;
 }
